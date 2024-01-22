@@ -1,4 +1,4 @@
-## Hi there 👋
+<center>**# Hi I'm Michael Jonathan Panjaitan 👋**</center>
 
 <!--
 **michaeljonathann/michaeljonathann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ## About Me 😄
 🔭 I am currently studying at Universitas Negeri Semarang, majoring Informatics Engineering  
 🌱 I am very interested in the combination of data and technology  
-📫 How to reach me michaeljopanjaitan@gmail.com  
+📫 Contact me michaeljopanjaitan@gmail.com  
 ⚡ Fun fact I love any sports
