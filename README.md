@@ -1,4 +1,6 @@
-<center>**# Hi I'm Michael Jonathan Panjaitan 👋**</center>
+<center>
+  **# Hi I'm Michael Jonathan Panjaitan 👋**
+</center>
 
 <!--
 **michaeljonathann/michaeljonathann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
