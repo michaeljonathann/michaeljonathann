@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaeljonathann&label=Profile%20views&color=0e75b6&style=flat" alt="michaeljonathann" /> </p>
 
 <h3 align="left">About Me 😄</h3>
+
 - 🔭 I’m currently studying at **Universitas Negeri Semarang, majoring Computer Science**
 
 - 🌱 I’m currently learning **Python and Data Analytics**
